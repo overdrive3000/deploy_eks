@@ -15,4 +15,4 @@ $ terraform plan -out firstdeploy
 $ terraform apply firstdeploy
 ```
 
-A whole description of how this template work can be found at (Deployin an AWS EKS Cluster)[https://www.linkedin.com/pulse/deploy-aws-eks-cluster-terraform-juan-mesa]
+A whole description of how this template work can be found at [Deployin an AWS EKS Cluster](https://www.linkedin.com/pulse/deploy-aws-eks-cluster-terraform-juan-mesa)
